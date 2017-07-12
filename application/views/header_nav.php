@@ -7,7 +7,7 @@
             </div>
             <div id="navbar3" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="<?php if($this->uri->segment(1)=="home" || $this->uri->segment(1)==""){echo "active ";}?>"><a href="<?php echo base_url(); ?>home">Home</a></li>
+                    <li class="<?php if($this->uri->segment(1)=="home" || $this->uri->segment(1)==""){echo "active ";}?>"><a href="<?php echo base_url(); ?>home">Homes</a></li>
                     <li class="dropdown"><a href="<?php echo base_url(); ?>#services">Services <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header">Services Offered</li>
