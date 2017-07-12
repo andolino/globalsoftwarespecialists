@@ -11,7 +11,7 @@
                     <li class="dropdown"><a href="<?php echo base_url(); ?>#services">Services <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li class="dropdown-header">Services Offered</li>
-                            <li><a href="<?php echo base_url(); ?>services/web_brochure">Brochure Websites</a></li>
+                            <li><a href="<?php echo base_url(); ?>services/web_brochure">Brochure Website</a></li>
                             <li><a href="<?php echo base_url(); ?>services/web_migration">Website Migration</a></li>
                             <li><a href="<?php echo base_url(); ?>services/eewa">E-Commerce & Enterprise Web Applications</a></li>
                         </ul>

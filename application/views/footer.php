@@ -39,7 +39,7 @@
 <div class="copyright">
     <div class="container">
         <div class="col-md-6">
-            <p><i class="fa fa-copyright" aria-hidden="true"></i> Copyright <?php echo date("Y"); ?> Global Software Specialists. All Rights Reserved</p>
+            <p><i class="fa fa-copyright" aria-hidden="true"></i> Copyrights <?php echo date("Y"); ?> Global Software Specialists. All Rights Reserved</p>
         </div>
         <div class="col-md-6">
             <ul class="bottom_ul">
