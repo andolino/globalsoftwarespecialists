@@ -1,0 +1,21 @@
+@media (max-width: 768px) {
+    #carousel-example {
+        display: none;
+    }
+}
+
+/* style to fix footer when screen is smaller */
+@media (max-width: 1000px) {
+    html {
+        position: static;
+    }
+    body{
+        margin: 0px;
+    }
+    footer {
+        position: static;
+    }
+    .copyright {
+        position: static;
+    }
+}
